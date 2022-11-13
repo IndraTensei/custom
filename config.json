@@ -1,12 +1,12 @@
 {
 
     "OWNER_ID":"",
-    "BOT_TOKEN": "",
+    "BOT_TOKEN": "NzQxOTIzODA0OTY3NjAwMTU4.Xy-oYw.BVoo3ng1UijYINCyk6DOj2BwiSQ",
     "tenorAPI":"",
     "DEFAULT_PREFIX":"",
     "mongoPass": "",
     "ERROR_LOGS_CHANNEL": "",
     "YT_COOKIE": ""
-    
+
 }
 
